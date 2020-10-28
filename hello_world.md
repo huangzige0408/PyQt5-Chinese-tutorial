@@ -1,5 +1,5 @@
 ﻿# Hello World
-commit 1
+commit 2
 ##本章学习Qt的基本功能
 
 ## 例1，简单的窗口
