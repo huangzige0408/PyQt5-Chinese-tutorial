@@ -1,5 +1,5 @@
 ﻿# Hello World
-modify 0.3 from master（wrong commit）
+modify 0.3 from master
 ##本章学习Qt的基本功能
 
 ## 例1，简单的窗口
