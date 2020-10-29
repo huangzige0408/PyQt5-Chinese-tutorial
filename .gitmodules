@@ -1,0 +1,3 @@
+[submodule "PyQt5"]
+	path = PyQt5
+	url = https://github.com/huangzige0408/PyQt5.git
